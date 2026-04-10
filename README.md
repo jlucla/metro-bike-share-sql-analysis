@@ -7,8 +7,10 @@ This project analyzes bike share usage patterns using trip data from LA Metro Bi
 The goal was to explore how total trips taken vary across stations, time, and category of trip. After SQL queries were used to conduct exploratory analysis, an Excel dashboard was created to enable interactive exploration of variable relationships.
 
 ## Tools 
-Excel: PivotTables, slicers, dashboard design
-SQL (SQLite): aggregation, filtering, window functions
+
+**Excel**: PivotTables, slicers, dashboard design
+
+**SQL (SQLite)**: aggregation, filtering, window functions
 
 ## Questions Explored
 
