@@ -4,7 +4,7 @@
 
 This project analyzes bike share usage patterns using trip data from LA Metro Bike Share Q4 (October–December 2025).
 
-The goal was to explore how total trips taken vary across stations, time, and category of trip. After SQL queries were used to conduct exploratory analysis, an Excel dashboard was created to enable interactive exploration of variable relationships.
+The goal was to explore how total trips taken vary across stations, time, and category of trip. SQL queries were used to conduct exploratory analysis, followed by the development of an interactive Excel dashboard.
 
 ## Tools 
 
