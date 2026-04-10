@@ -8,9 +8,9 @@ The goal was to explore how total trips taken vary across stations, time, and ca
 
 ## Tools 
 
-**Excel**: PivotTables, slicers, dashboard design
+**Excel**: PivotTables, slicers, VLOOKUP functions, dashboard design
 
-**SQL (SQLite)**: aggregation, filtering, window functions
+**SQL (SQLite)**: aggregations, filtering, grouping, window functions
 
 ## Questions Explored
 
